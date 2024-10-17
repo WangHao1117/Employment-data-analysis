@@ -46,6 +46,6 @@ project/
 
 ### 数据可视化
 
-- **3D 图**：[3D_plot.py](3D_plot.py)
-- **柱状图**：[Bar_Chart.py]
-- **饼图**：[Pie_Chart.py]
+- **3D 图**：[3D_plot.py](Python就业数据分析源代码/111/numpy_job/3D_plot.py)
+- **柱状图**：[Bar_Chart.py](Python就业数据分析源代码/111/numpy_job/Bar_Chart.py)
+- **饼图**：[Pie_Chart.py](Python就业数据分析源代码/111/numpy_job/Pie_Chart.py)
